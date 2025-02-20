@@ -65,13 +65,13 @@ button:hover {
 }
 
 .flores {
-    top: 10%;
+    top: 5%;
     left: 15%;
     animation: float 4s infinite ease-in-out;
 }
 
 .corazones {
-    bottom: 10%;
+    bottom: 5%;
     right: 15%;
     animation: float 5s infinite ease-in-out;
 }
